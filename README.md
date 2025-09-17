@@ -30,11 +30,6 @@ These are merged into one dataset for analysis.
 - Top Products by Revenue (bar chart)  
 - Top Customers by Revenue (bar chart)  
 
-## 🔑 Insights & Conclusion
-- Total revenue: $125,000  
-- Product A was the highest contributor to revenue  
-- Average Order Value (AOV): $520  
-- Seasonal peaks in Q2 and Q4 indicate high-demand periods  
 
 ## 🚀 How to Run
 1. Clone the repo and open the notebook in Google Colab.  
